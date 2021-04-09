@@ -12,6 +12,7 @@ For the design library [Shards Dashboard Lite React
 - [x] Morse Encoder<br>
 - [x] Take a break timer<br>
 - [x] Deep Clean Object<br>
+- [x] Stop Watch<br>
 - [ ] rsa key gen<br>
 - [ ] Jwt converter/ reverse decoder<br>
 - [ ] SHA512 Converter<br>
@@ -43,10 +44,6 @@ For the design library [Shards Dashboard Lite React
 <li>Send a PR</li>
 
 </ol>
-
-### Now its time to deploy your feature
-
- <li><code>yarn run deploy</code></li>
 
 Boom your feature will be live at [tools.neoito.com](https://tools.neoito.com)
 
